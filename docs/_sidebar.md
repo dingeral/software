@@ -30,8 +30,10 @@
    - [git常用命令](/命令工具/git常用命令.md)
    - [Git保存用户名和密码的方法](/命令工具/Git保存用户名和密码的方法.md)
    - [github访问或下载慢](/命令工具/Q1.md)
+   - [下载工具集](命令工具/下载工具集.md)
 - 使用
    - [Windows使用](/使用/win.md)
    - [gitbook教程](/使用/gitbook_to_use.md)
    - [gitbook插件](/使用/gitbook_plugs.md)
    - [markdown入门](/使用/markdown.md)
+   - [docsify使用教程](/使用/docsify_to_use.md)
