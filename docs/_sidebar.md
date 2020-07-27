@@ -7,7 +7,6 @@
    - [美化](/deepin/beautify.md)
    - [插件](/deepin/plugins.md)
    - [安装 fcitx](/deepin/deepin_installation_fcitx.md)
-   - [科学上网](/deepin/net<-->net.md)
    - [快捷键](/deepin/keyboard_shortcuts.md)
    - [从unstable版升级到stable版](/deepin/unstable-->stable.md)
    - [常见问题](/deepin/常见问题.md)
@@ -37,3 +36,4 @@
    - [gitbook插件](/使用/gitbook_plugs.md)
    - [markdown入门](/使用/markdown.md)
    - [docsify使用教程](/使用/docsify_to_use.md)
+   - [vs code 插件](使用/vs%20code%20插件.md)
