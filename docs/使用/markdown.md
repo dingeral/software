@@ -334,12 +334,13 @@ N 与图片高度有关。
 至此Markdown的语法也写的差不多，当然以上是根据我的使用习惯写的，方便自己。
 
 ### 参考资料
-[Markdown语法说明](https://markdown.tw/)  
-[如何在markdown中打出上标、下标和一些特殊符号](https://www.jianshu.com/p/80ac23666a98)  
-[html特殊符号对照表](http://www.fhdq.net/ts/177.html)  
-[插入音乐_aplayer](https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md)  
-[插入视频_dplayer](https://github.com/MoePlayer/hexo-tag-dplayer)  
-[Markdown 语言中空格的几种表示方法](https://blog.csdn.net/qq_34719188/article/details/84205243)  
-[Markdown学习笔记：如何画流程图](https://blog.csdn.net/zhaodedong/article/details/47671679)  
-[Markdown笔记：如何画流程图](https://segmentfault.com/a/1190000006247465#articleHeader0)
+- [Markdown语法说明](https://markdown.tw/)  
+- [如何在markdown中打出上标、下标和一些特殊符号](https://www.jianshu.com/p/80ac23666a98)  
+- [html特殊符号对照表](http://www.fhdq.net/ts/177.html)  
+- [插入音乐_aplayer](https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md)  
+- [插入视频_dplayer](https://github.com/MoePlayer/hexo-tag-dplayer)  
+- [Markdown 语言中空格的几种表示方法](https://blog.csdn.net/qq_34719188/article/details/84205243)  
+- [Markdown学习笔记：如何画流程图](https://blog.csdn.net/zhaodedong/article/details/47671679)  
+- [Markdown笔记：如何画流程图](https://segmentfault.com/a/1190000006247465#articleHeader0)
+- [关于 Markdown 的一些奇技淫巧](https://mazhuang.org/2017/09/01/markdown-odd-skills/)
 
