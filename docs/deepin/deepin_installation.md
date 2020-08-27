@@ -73,9 +73,7 @@
 
 10、视频演示
 
-<video src="https://raw.githubusercontent.com/dingeral/CDN/master/deepinbook/vdio/%E6%B7%B1%E5%BA%A6%E5%AE%89%E8%A3%85%E5%99%A8%2B%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E9%A2%91%E9%81%93%E7%AC%AC%E4%B8%83%E6%9C%9F%2B%E6%B7%B1%E5%BA%A6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%98%E6%96%B9%E5%87%BA%E5%93%81%20.mp4" controls="controls">
-Your browser does not support the video tag.
-</video>
+[前往视频网站观看](https://www.bilibili.com/video/BV1Y54y197pL)
 
 11、更多资料
 

@@ -8,7 +8,6 @@
    - [插件](/deepin/plugins.md)
    - [安装 fcitx](/deepin/deepin_installation_fcitx.md)
    - [快捷键](/deepin/keyboard_shortcuts.md)
-   - [从unstable版升级到stable版](/deepin/unstable-->stable.md)
    - [常见问题](/deepin/常见问题.md)
 - 软件
    - [软件](/软件/software.md)
