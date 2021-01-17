@@ -359,6 +359,10 @@ css 源文件地址 https://cdn.jsdelivr.net/npm/docsify/themes/vue.css
 
 将 601 行`color: #505d6b;`，改为`color: #333;`
 
+### 字体大小
+
+将 59 行`font-size: 15px;`，改为`font-size: 17px;`
+
 ## other
 
 - [表格问题](https://github.com/docsifyjs/docsify/issues/794)
