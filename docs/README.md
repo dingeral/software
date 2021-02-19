@@ -2,6 +2,6 @@
 
 软件使用记录。
 
-## 随机图片
+## 视觉
 
-![随机图片](https://api.ixiaowai.cn/gqapi/gqapi.php)
+![](https://ae01.alicdn.com/kf/Ueacf03e4734542d6a8ba97548b301df4l.jpg)
