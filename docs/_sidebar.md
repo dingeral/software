@@ -1,5 +1,5 @@
 - 软件
-   - [Google Chrome](/软件/GoogleChrome.md)
+   - [简介](软件/简介.md)
    - [Matlab](/软件/matlab.md)
    - [Pycharm](/软件/Pycharm.md)
    - [Shadowsocks-deepin](/软件/shadowsocks-deepin.md)
@@ -27,10 +27,6 @@
    - [快捷键](/deepin/keyboard_shortcuts.md)
    - [常见问题](/deepin/常见问题.md)
 - 命令工具
-   - [命令工具](/命令工具/command_tool.md)
    - [pip](/命令工具/pip.md)
-   - [hexo](/命令工具/hexo.md)
-   - [git常用命令](/命令工具/git常用命令.md)
-   - [Git保存用户名和密码的方法](/命令工具/Git保存用户名和密码的方法.md)
-   - [github访问或下载慢](/命令工具/Q1.md)
+   - [git](/命令工具/git.md)
    - [下载工具集](命令工具/下载工具集.md)
