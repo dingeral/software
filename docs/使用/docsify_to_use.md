@@ -363,6 +363,8 @@ css 源文件地址 https://cdn.jsdelivr.net/npm/docsify/themes/vue.css
 
 将 59 行`font-size: 15px;`，改为`font-size: 17px;`
 
+### 为图片添加圆角
+在 67 行添加`border-radius: 4px;`
 ## other
 
 - [表格问题](https://github.com/docsifyjs/docsify/issues/794)
