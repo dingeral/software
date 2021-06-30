@@ -1,12 +1,7 @@
-# Matlab 安装
+# Matlab
 
-## 下载
 
-- [R2019b Windows](https://drive.google.com/file/d/1R4IKuQG7Db1KUDyKBuu-0dPLXJH4bV9w/view?usp=sharing)
 
-- [R2019b Linux](https://drive.google.com/file/d/1sruBreiB-giFYCg9AbVYaleX8os7O-kM/view?usp=sharing)
-
-- [R2019b MAC](https://drive.google.com/file/d/1OH7zZ-bEv83GqiDvQ16IFZwR5NFB85aD/view?usp=sharing)
 
 ## 安装
 
