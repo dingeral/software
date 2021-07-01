@@ -26,7 +26,4 @@
    - [安装 fcitx](/deepin/deepin_installation_fcitx.md)
    - [快捷键](/deepin/keyboard_shortcuts.md)
    - [常见问题](/deepin/常见问题.md)
-- 命令工具
-   - [pip](/命令工具/pip.md)
-   - [git](/命令工具/git.md)
-   - [下载工具集](命令工具/下载工具集.md)
+   - [常用命令](docs/deepin/常用命令.md)
