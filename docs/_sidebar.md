@@ -1,5 +1,6 @@
 - 软件
-   - [chrome](docs/软件/chrome.md)
+   - [总览](/软件/总览.md)
+   - [chrome](/软件/chrome.md)
    - [Matlab](/软件/matlab.md)
    - [Pycharm](/软件/Pycharm.md)
    - [Shadowsocks-deepin](/软件/shadowsocks-deepin.md)
